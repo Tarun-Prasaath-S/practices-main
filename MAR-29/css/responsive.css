@@ -1,0 +1,17 @@
+/* responsive */
+
+@media screen and (max-width: 400px) {
+  body {
+    background: cadetblue;
+  }
+
+  .container {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  h1 {
+    width: 100%;
+    font-size: 2.4rem;
+  }
+}
